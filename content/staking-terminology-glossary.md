@@ -1,9 +1,10 @@
 +++
 date = "2019-09-16T06:00:00+00:00"
+draft = true
 title = "Staking Terminology & Glossary"
 
 +++
-# Active Pool
+## Active Pool
 
 Active pools consist of all candidate and validator pools eligible to join the next staking epoch as members of the validator set. At the end of a staking epoch, the new validator set is constructed from this list. Active pools with higher stake have a higher likelihood of selection to the next epoch, but all active pools have a chance to be selected (randomness introduces variation in selection).
 
@@ -11,7 +12,7 @@ To be considered active, a pool must contain at least the minimum stake amount (
 
 All active pools are listed in the active pools tab, arranged from highest stakes ratio to lowest stakes ratio. Delegators may add or move stake to and from active pools during a staking window. However, if the active pool is a current validator, the change in stake amounts will not take effect until the next staking epoch. A withdrawal from a validator’s pool is limited to the amount staked during the current staking epoch. However, any delegator in the validator’s pool (including the validator themselves) can order a withdrawal and remove their stake during the next staking epochs.
 
-# Active Stake
+## Active Stake
 
 Stake currently in use by the validator set is called active stake. The amount of active stake is snapshot at the beginning of each staking epoch and used as the basis for reward distribution among validator pools at the end of the epoch.
 
