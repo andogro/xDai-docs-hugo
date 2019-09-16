@@ -12,7 +12,6 @@ sections:
 - type: document
   path: staking-terminology-glossary
   label: Glossary of Terms
-  match: "**/*"
 - type: directory
   path: content/quickstart
   label: Quickstart
