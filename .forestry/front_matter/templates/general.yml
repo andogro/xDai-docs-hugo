@@ -17,3 +17,5 @@ fields:
     time_format: 
     display_utc: false
   description: Published date
+pages:
+- content/quickstart/get-dpos.md
