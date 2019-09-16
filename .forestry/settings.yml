@@ -10,7 +10,7 @@ sections:
   create: all
   match: "*"
 - type: document
-  path: staking-terminology-glossary
+  path: content/staking-terminology-glossary
   label: Glossary of Terms
 - type: directory
   path: content/quickstart
