@@ -3,6 +3,8 @@ title: Get Xdai
 date: 2019-09-11T20:08:03.000+00:00
 
 ---
+To start staking on the xDai Stable Chain, you will need the Minimum required stake in $DPOS, as well as a small amount of xDai in order to pay for staking transactions. (Note: 500 transactions will cost slightly over .01xDAI, so $1.00 in xDai will allow for lots of staking!!) xDai is also used for any other on-chain transactions.
+
 Steps to get xDai:
 
 1. **Acquire DAI**  
