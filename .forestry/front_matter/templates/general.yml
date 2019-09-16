@@ -1,4 +1,19 @@
 ---
 label: General
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Page Title
+- name: date
+  type: datetime
+  label: Date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  description: Published date
