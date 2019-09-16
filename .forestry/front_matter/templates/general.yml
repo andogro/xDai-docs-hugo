@@ -18,6 +18,7 @@ fields:
     display_utc: false
   description: Published date
 pages:
+- content/quickstart/become-a-candidate-validator.md
 - content/Staking Operations/move-stake.md
 - content/quickstart/metamask-nifty-web3-wallet-setup.md
 - content/Staking Operations/add-stake.md
