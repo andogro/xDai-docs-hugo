@@ -19,6 +19,6 @@ To add stake for the first time, you can either follow the Become a Candidate or
    1. If the pool you placed stake on becomes a validator pool, then this stake is committed to the protocol for the next epoch. You will earn rewards based on your percentage of stake in the pool. You cannot withdraw this stake immediately, but can order for withdrawal. This request will be processed at the end of the current epoch, and funds will be available during the next staking epoch.
    2. If the pool you placed stake on is not chosen as a validator pool, you can withdraw or move your funds at any time* during the next epoch.
 
-{{% notice note %}}
+{{% notice info %}}
 You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.
 {{% /notice %}}
