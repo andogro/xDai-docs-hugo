@@ -31,7 +31,7 @@ enableMissingTranslationPlaceholders = false
 #editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
 showVisitedLinks = true # default is false
 themeStyle = "original" # "original" or "flex" # default "flex"
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
@@ -43,6 +43,13 @@ enableGitInfo = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+
+[[menu.shortcuts]]
+ name = "getting started"
+ post = "<span class='alert'>New!</span>"
+ pre = "<i class='fa fa-road'></i>"
+ url = "/getting-started/"
+ weight = 0
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
