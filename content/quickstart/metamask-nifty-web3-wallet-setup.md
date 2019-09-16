@@ -7,9 +7,7 @@ title = "Metamask / Nifty:  Web3 Wallet Setup "
 Use a web 3 wallet to connect your address to the staking interface and interact with your xDai and DPOS balances. These instructions cover chrome application features, but are similar for all browsers that support Web3 wallets.
 
 1. Download Nifty Wallet or Metamask  
-   {{% notice warning %}}
-   **Do not enable both wallets at the same time** as there can be conflicts between the two. Apps can be enabled/disabled in the chrome extensions interface.
-   {{% /notice %}}
+   {{% notice alert %}}**Do not enable both wallets at the same time** as there can be conflicts between the two. Apps can be enabled/disabled in the chrome extensions interface.{{% /notice %}}
 2. Once installed, go to [blockscout.com](http://blockscout.com/).
 3. Change the BlockScout Network to xDai Chain and select an item from Stakes in top menu.
    1. `<xDai chain select screenshot>`
