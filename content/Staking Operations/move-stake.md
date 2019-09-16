@@ -12,7 +12,7 @@ To change which candidate you are staking on, or spread your stake to different 
 * Stake placed on an active validator pool can be moved **during the same staking epoch in which it was placed**.
 * Stake cannot be moved or withdrawn from a banned pool until the ban is complete.
 
-{{% panel theme="danger" header="Note" %}}You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.{{% /panel %}}
+{{% panel theme="danger" header="*Note" %}}You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.{{% /panel %}}
 
 ### To move stake:
 
