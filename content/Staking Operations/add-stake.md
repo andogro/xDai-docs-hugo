@@ -21,5 +21,5 @@ To add stake for the first time, you can either follow the Become a Candidate or
 
 {{% notice info %}}
 
-_*You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive._
+*You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.
 {{% /notice %}}
