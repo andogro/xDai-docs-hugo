@@ -5,7 +5,7 @@ date: 2019-09-11T20:08:03.000+00:00
 ---
 # Welcome to the xDai Staking User Guide! 
 
-##### Here you will find information on:
+#### Here you will find information on:
 
 1. **$DPOS & xDai:** You will need to [get $DPOS](/quickstart/get-dpos/) for staking and [get xDai ](/quickstart/get-xdai/)for staking transactions (such as placing, moving or withdrawing stake).
 2. Web3 enabled wallets such as **Metamask or Nifty Wallet**.  
