@@ -8,7 +8,7 @@ Validators are responsible for securing the xDai stable chain. Validator respons
 
 To become a validator on the xDai stable chain, you must first become a candidate. Each staking epoch, 19 candidate pools are chosen to act as validators for that epoch. If there are 19 or fewer active candidates, then all active pools are selected. If there are more than 19, selection is based on total stake in the pool + a random number. [See this article for more info on weighting and randomness](https://forum.poa.network/t/reliable-randomness-bringing-on-chain-entropy-to-the-xdai-stable-chain/3015).
 
-{{% panel theme="success" header="*Note" %}}If you do not want to become a validator, but are interested in placing stake on other validators, see Become a Delegator{{% /panel %}}
+{{% panel theme="success" header="*Note" %}}If you do not want to become a validator, but are interested in placing stake on other validators, see [Become a Delegator](become-a-delegator){{% /panel %}}
 
 ### Instructions:
 
@@ -26,6 +26,6 @@ To become a validator on the xDai stable chain, you must first become a candidat
 
 ![](/uploads/candidate_2.png)
 
- 8. Select the amount of $DPOS you would like to place as your initial stake (you can always add additional stake later) and enter your mining address from step 2.
- 9. Click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface.
-10. If successful, your pool will appear in the Active Pools tab. You will be eligible to join the next staking epoch as a Validator! If there are more than 19 candidates, you will be chosen based on the total stake amount in your pool (your stake + any delegators stake) plus a random number.
+1. Select the amount of $DPOS you would like to place as your initial stake (you can always add additional stake later) and enter your mining address from step 2.
+2. Click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface.
+3. If successful, your pool will appear in the Active Pools tab. You will be eligible to join the next staking epoch as a Validator! If there are more than 19 candidates, you will be chosen based on the total stake amount in your pool (your stake + any delegators stake) plus a random number.
