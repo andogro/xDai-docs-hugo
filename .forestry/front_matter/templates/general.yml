@@ -18,5 +18,6 @@ fields:
     display_utc: false
   description: Published date
 pages:
+- content/Staking Operations/add-stake.md
 - content/quickstart/get-dpos.md
 - content/staking-terminology-glossary.md
