@@ -20,5 +20,5 @@ To add stake for the first time, you can either follow the Become a Candidate or
    2. If the pool you placed stake on is not chosen as a validator pool, you can withdraw or move your funds at any time* during the next epoch.
 
 {{% notice info %}}
-You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.
+* You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.
 {{% /notice %}}
