@@ -46,7 +46,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
  name = "<i class='fa fa-road'></i> <label>Glossary of Terms</label>"
- url = "staking-terminology-glossary/"
+ url = "/staking-terminology-glossary/"
  weight = 0
 
 [[menu.shortcuts]]
