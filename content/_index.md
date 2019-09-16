@@ -3,7 +3,7 @@ title: Home Page
 date: 2019-09-11T20:08:03.000+00:00
 
 ---
-# Welcome to the xDai Staking User Guide! 
+# Welcome to the xDai Staking User Guide!
 
 #### Here you will find information on:
 
@@ -12,4 +12,6 @@ date: 2019-09-11T20:08:03.000+00:00
    Use the custom RPC option to connect to the xDai Stable Chain with your address that contains $DPOS and xDAI.
 3. **Becoming a Delegate:** Staking on current candidates
 4. **Becoming a Candidate:** Configuring a running an xDai node
-5. Learn more about the **staking window** (when staking actions are permitted and available), **moving stake**, **withdrawing stake** and other protocol features and staking operations.
+5. Learn more about **moving stake**, **withdrawing stake, claiming stake** and other operations in the Staking Operations section.
+6. Read the glossary for an explanation of terms and protocol features.
+7. Contact us through the xDai Forum, our official telegram or twitter for help.
