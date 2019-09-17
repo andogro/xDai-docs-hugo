@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "<i class="fas fa-times"></i> <label>xDai Staking User Guide</label>"
+title = "xDai Staking User Guide"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
